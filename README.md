@@ -1,2 +1,2 @@
 # Appointment-Schedular-ChatBot
-Create Appointment Scheduler chatbot using Dialogflow, by creating a fulfillment integration with Google Calendar API
+The Appointment Scheduler Chatbot is an efficient solution for booking various appointments. With its versatile functionality, it handles different types of appointments and seamlessly integrates with Google Calendar. Users can effortlessly schedule appointments, saving time and avoiding conflicts. The chatbot's smart features ensure accurate and organized scheduling, enhancing productivity and convenience.
